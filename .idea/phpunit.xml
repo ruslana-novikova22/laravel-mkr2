@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/php_lab3/tests/Unit" />
         <option value="$PROJECT_DIR$/php_lab3/tests/Feature" />
+        <option value="$PROJECT_DIR$/php_lab3-4/tests/Unit" />
+        <option value="$PROJECT_DIR$/php_lab3-4/tests/Feature" />
       </list>
     </option>
   </component>
